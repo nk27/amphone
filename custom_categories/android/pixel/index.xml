@@ -7,6 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://www.gadget-amphone.com/custom_categories/android/pixel/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pixelfold ベンチマーク測定</title>
+      <link>https://www.gadget-amphone.com/posts/android/pixelfold_bench/</link>
+      <pubDate>Mon, 07 Aug 2023 21:19:01 +0900</pubDate>
+      
+      <guid>https://www.gadget-amphone.com/posts/android/pixelfold_bench/</guid>
+      <description>同じTensor G2のPixel7 Proと比較すると控えめ？ 参考記事 今回比較対象のPixel7 Proのレビュー記事は下記となります。興味ある方はぜひご覧ください。
+Pixel7Proレビュー Pixel Foldベンチマーク測定 筆者はバッテリーセーバーONで使うことが多いため、まずはそちらで測定。 Pixel FoldバッテリーセーバーON Geekbench 6 pic.twitter.com/8jLpj5H8tM
+&amp;mdash; あむ (@gadget_amphone) August 6, 2023 思ったよりもスコアが出ました。
+続いてバッテリーセーバーOFFで測定。 Pixel FoldバッテリーセーバーOFF Geekbench 6 pic.twitter.com/Cu3vgBsKR4
+&amp;mdash; あむ (@gadget_amphone) August 6, 2023 スコアは上がりましたが、思ったより伸びませんでした&amp;hellip;
+これであればバッテリーセーバーONで常用するのが良さそうですね。
+ただ気になるのはPixel7 Proよりスコアが若干低い点です。筆者は重めのゲームをしないため、特に問題ありませんが、ゲームをする人は注意が必要そうです。（そもそも折りたたみ端末でゲームをするのはあれですが）</description>
+    </item>
+    
+    <item>
       <title>Pixel Fold購入実機レビュー</title>
       <link>https://www.gadget-amphone.com/posts/android/pixelfold_review/</link>
       <pubDate>Sat, 05 Aug 2023 12:44:26 +0900</pubDate>
