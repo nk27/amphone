@@ -6,7 +6,28 @@
     <description>Recent content in ガジェット on あむふぉん -ガジェット-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Jun 2023 12:10:43 +0900</lastBuildDate><atom:link href="https://www.gadget-amphone.com/custom_parent_categories/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 18:00:00 +0900</lastBuildDate><atom:link href="https://www.gadget-amphone.com/custom_parent_categories/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ウォレットのSuicaチャージエラーを解決した話</title>
+      <link>https://www.gadget-amphone.com/posts/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88%E3%81%A7suica%E3%81%AE%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%A9%E3%83%BC%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%97%E3%81%9F%E8%A9%B1/</link>
+      <pubDate>Tue, 08 Aug 2023 18:00:00 +0900</pubDate>
+      
+      <guid>https://www.gadget-amphone.com/posts/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88%E3%81%A7suica%E3%81%AE%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%A9%E3%83%BC%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%97%E3%81%9F%E8%A9%B1/</guid>
+      <description>先に結論 Googleウォレット サポートに問い合わせして解決しましたエラーの内容 Pixel WatchのSuica残高がなくなりチャージをしようとしたところ「Googleでは現時点でカードを確認できませんでした」とエラーが出てチャージができなくなりました。
+「え、今外出中で残高30円なんですが&amp;hellip;」ととても焦る事態に&amp;hellip;
+手元で試したこと 下記を試しましたが、どれも同じエラーが表示されるだけでした&amp;hellip;
+数時間おきチャージをもう一度試す 別のクレジットカードを利用する 新規のクレジットカードを試す Suicaをスマホ側に移行する 解決への道筋 上記の通り色々試行錯誤しましたが解決にいたらず、最終手段のサポート問い合わせを行いました。
+1.Watchアプリからサポートへ問い合わせ Watchアプリ内にあるヘルプより問い合わせを実施しました。症状を伝えたところ「ウォレットの不具合はこの窓口ではなく、Google Pay窓口を利用してください。」と丁寧にリンクをいただきました。
+ところがどっこい、いただいたリンクに飛びGoogle Payを選択してもサイトの不具合か問い合わせサイトに飛べませんでした&amp;hellip;
+最終的には「Googleウォレット ヘルプ」で検索してやっと問い合わせサイトに飛ぶことができました！
+2.Googleウォレット サポートへの問い合わせ こちらもとても丁寧に対応いただきました。「Googleでは現時点でカードを確認できませんでした」の症状を伝えたところ、「専門チームで1週間ほど調査をします」との回答でした。
+4日後、無事解決した連絡が来ました！
+3.外出中はどうしたの？ 外出中で更に残高30円の状況をどうしたのか。サポートの方に伺ったところ「駅のチャージ機で可能な場合もあります」とのことでした。
+カードを差し込むタイプではなく、置いてチャージするタイプの場合はモバイルSuicaもチャージ可能とのことです。
+最寄り駅では対応してませんでしたが、セブン銀行ATMがSuicaチャージ対応しており、この難所を乗り切り帰宅することがでました！
+まとめ 「Googleでは現時点でカードを確認できませんでした」のときはGoogleウォレット サポートに問い合わせすれば解決 時間がかかるので、すぐにチャージが必要な場合は駅またはセブン銀行ATMを探しましょう！ </description>
+    </item>
+    
     <item>
       <title>M1 mac miniがAmazonセールで¥65,000に！！</title>
       <link>https://www.gadget-amphone.com/posts/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/amazon_sale_mac_mini/</link>
