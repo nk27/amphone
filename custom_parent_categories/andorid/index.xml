@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android/Galaxy on あむふぉん -ガジェット-</title>
-    <link>https://www.gadget-amphone.com/custom_categories/android/galaxy/</link>
-    <description>Recent content in Android/Galaxy on あむふぉん -ガジェット-</description>
+    <title>Andorid on あむふぉん -ガジェット-</title>
+    <link>https://www.gadget-amphone.com/custom_parent_categories/andorid/</link>
+    <description>Recent content in Andorid on あむふぉん -ガジェット-</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://www.gadget-amphone.com/custom_categories/android/galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Wed, 09 Aug 2023 20:00:00 +0900</lastBuildDate><atom:link href="https://www.gadget-amphone.com/custom_parent_categories/andorid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>折りたたみスマホ（Galaxy Z Fold3）を1年メイン端末にしてみた</title>
       <link>https://www.gadget-amphone.com/posts/android/galaxyzfol3_review/</link>
@@ -19,17 +20,6 @@
 次に現状です。現状は下記ツイートがわかりやすいかと思います。折りたたみ部分に亀裂が発生してきてます&amp;hellip;ただGalaxyはフィルムの貼り替えがGalaxy Storeでできるのでそこは良い点だと思います。
 利用歴1年弱の折りたたみスマホ（Z Fold3）は折り目のところに亀裂入ってきた pic.twitter.com/lj9QpltiBu
 &amp;mdash; あむ (@gadget_amphone) August 8, 2023 まとめ 折りたたみスマホを1年使ってみた感想を書きました。自分の体感としては耐久性がもう少し上がれば数年の利用に耐えうるといった感じでした。そんな耐久性に心配がある折りたたみスマホですが、最近は2年後返却で安く使えるプランが出てます。このプラント併用することを考えてみても良さそうですね。</description>
-    </item>
-    
-    <item>
-      <title>Galaxt Tab S8 Ultraが楽天市場で実質132,160円に！</title>
-      <link>https://www.gadget-amphone.com/posts/%E3%81%8A%E3%83%88%E3%82%AF%E6%83%85%E5%A0%B1/galaxt_tab_s8_ultra_sales/</link>
-      <pubDate>Sun, 23 Apr 2023 21:20:04 +0900</pubDate>
-      
-      <guid>https://www.gadget-amphone.com/posts/%E3%81%8A%E3%83%88%E3%82%AF%E6%83%85%E5%A0%B1/galaxt_tab_s8_ultra_sales/</guid>
-      <description>Galaxy Tab S8 Ultra おトク情報 楽天スーパーDEALで実質132,160円に！更に他の諸々でもっとお得に買えます！！Galaxy Tab S8 Ultra SM-X900NZAGXJP Androidタブレット Graphite
-税込価格207,680円に40%ポイントバック(75,520pt)がもらえ、実質132,160円となります！ この他にも通常ポイントやお買い物マラソン、楽天モバイル契約者は+10%ポイント(最大2,000pt)もついており、人によってはさらにお得に買えます！
-Galaxy Tab S8 Ultra スペック情報 項目 スペック CPU Snapdragon 8 Gen 1 メモリ 12GB ストレージ 256GB 画面サイズ 14.6インチ 解像度 2960x1848 画面種別 OLED 重量 726g </description>
     </item>
     
   </channel>
